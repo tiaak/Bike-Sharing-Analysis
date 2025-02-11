@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5537806a-fcd6-4bae-85ed-492ac9e46006)# Bike-Sharing
 Visualisasi data ini merupakan submission pada course dicoding (Belajar Analisi Data Dengan Python)
 
 # setup Environtment
